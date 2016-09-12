@@ -1,0 +1,98 @@
+*{
+	box-sizing:border-box;
+}
+header{
+	background:url(../img/khKVdW.jpeg)no-repeat;
+	background-size:cover; 
+}
+li{
+	display:inline-block;
+	margin-left:3%;
+	margin-top:4%;
+}
+.menu{
+	text-decoration:none;
+	color:white;
+}
+li:hover{
+    -webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+
+.boton{
+   background-color:white;
+   border-radius:5px;
+   padding: 10px 20px;
+   text-align: center;
+   display: inline-block;
+   font-size: 16px;
+   margin-left:10%;
+   margin-top:6%;
+}
+.sumate{
+	text-decoration: none;
+	color:black;
+}
+.boton:hover{
+	-webkit-transform:scale(1.25);
+    -moz-transform:scale(1.25);
+    -ms-transform:scale(1.25);
+    -o-transform:scale(1.25);
+    transform:scale(1.25);
+}
+
+.titulo h1{
+	color:white;
+	margin-top:39%;
+	font-size:50px;
+}
+.titulo p{
+	color:white;
+	font-size:20px;
+	margin-left:15%;
+	margin-bottom:40%;
+}	
+.fondo{
+	background:#484848;
+	padding:4%;
+}
+.blanco{
+	background-color:white;
+	padding:1%; 
+	margin:5%;
+	border:1px solid grey;
+}
+.logo{
+	width:300px;
+	height:300px;
+	padding:2%;
+	margin-left:12%;
+}
+.ver{
+   background-color:#242424;
+   padding: 10px 20px;
+   display:inline-block;
+   font-size: 10px;
+   text-decoration:none;
+   color:white;
+}
+h3{
+	font-family: 'Cinzel', serif;
+	font-size:20px;
+	text-align:center; 
+}
+.texto{
+	font-family: 'Cinzel', serif;
+}
+button{
+	margin-left:35%;
+}
+.back{
+	background:#555555;
+	padding:1%;
+	color:white;
+	
+}
